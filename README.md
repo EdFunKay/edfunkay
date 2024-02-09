@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
- Як зв'язатися зі мною: [![Telegram Badge](https://img.shields.io/badge/-Minaiev_Eduard-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Edward_Key) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dgard@gmail.com)
+ Як зв'язатися зі мною: [![Telegram Badge](https://img.shields.io/badge/-Minaiev_Eduard-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Edward_Key) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](dgard@gmail.com)
 
 ---
 
